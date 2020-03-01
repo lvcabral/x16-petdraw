@@ -2,8 +2,7 @@
 KickAssembler version of the 8 Bit Guy's PetDraw tool for the Commander X16 computer
 
 ## Repository
-This is a conversion to KickAssembler of the 
-
+The PetDraw is a program developed by [David Murray "The 8bit Guy"] (http://www.the8bitguy.com/) for several different Commodore machines, that allows the creation of PETSCII graphics and screens. This repository contains a **KickAssembler** conversion of the version for the Commander X16 Computer, made available by David at the [x16-demo](https://github.com/commanderx16/x16-demo) repository.
 
 ## How to Build
 Make sure you have [KickAssembler](http://www.theweb.dk/KickAssembler/) available (v5.x) and run the following command:
